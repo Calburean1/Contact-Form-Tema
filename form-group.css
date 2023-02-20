@@ -1,0 +1,28 @@
+.Data {
+
+    text-align: left;
+    display: block;
+    margin-bottom: 8px;
+    color: white;
+    box-sizing: border-box;
+    width: auto;
+    border: 0;
+    padding: 30px 50px;
+    font-size: medium;
+    
+    
+    
+    
+}
+
+
+.Data label {
+
+    display: block;
+    text-size-adjust: 200px;
+    color: white;
+    text-align: left;
+    
+
+}
+

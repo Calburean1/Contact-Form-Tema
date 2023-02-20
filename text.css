@@ -1,0 +1,16 @@
+.contact h1 {
+
+    text-align: center;
+    color: white;
+   size: 100px;
+
+}
+
+.contact p {
+
+    text-align: center;
+    color: white;
+    size: 80px;
+    display: block;
+}
+
